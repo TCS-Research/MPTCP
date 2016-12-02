@@ -40,17 +40,17 @@ To verify the installation use the following methods
 If the installation is successful, commands below give output as specified
 
 1) echo /proc/sys/net/mptcp/mptcp_enabled
- output: 1
+
+ Output: 1
 
 2) echo /proc/sys/net/ipv4/tcp_congestion_control
- output: olia
+
+ Output: olia
 
 
 Configuring Multipath Routing on rpi 
 ------------------------------------
 
-Please refer to http://multipath-tcp.org/pmwiki.php/Users/ConfigureRouting for details about the same.
+Please refer to: http://multipath-tcp.org/pmwiki.php/Users/ConfigureRouting 
 
-For more details about MPTCP, please refer to 
-
-http://multipath-tcp.org/pmwiki.php/Main/HomePage
+For more details about MPTCP, please refer to: http://multipath-tcp.org/pmwiki.php/Main/HomePage
