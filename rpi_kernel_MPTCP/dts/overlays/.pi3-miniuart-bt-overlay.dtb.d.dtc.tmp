@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/pi3-miniuart-bt-overlay.dtb: arch/arm/boot/dts/overlays/.pi3-miniuart-bt-overlay.dtb.dts.tmp

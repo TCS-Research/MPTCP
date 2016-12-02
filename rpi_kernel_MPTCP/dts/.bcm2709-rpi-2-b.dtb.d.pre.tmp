@@ -1,0 +1,1 @@
+bcm2709-rpi-2-b.o: arch/arm/boot/dts/bcm2709-rpi-2-b.dts

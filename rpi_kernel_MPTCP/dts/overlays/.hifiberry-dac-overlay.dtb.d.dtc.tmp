@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/hifiberry-dac-overlay.dtb: arch/arm/boot/dts/overlays/.hifiberry-dac-overlay.dtb.dts.tmp

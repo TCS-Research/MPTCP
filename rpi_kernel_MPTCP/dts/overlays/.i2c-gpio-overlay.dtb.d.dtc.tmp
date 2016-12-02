@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/i2c-gpio-overlay.dtb: arch/arm/boot/dts/overlays/.i2c-gpio-overlay.dtb.dts.tmp

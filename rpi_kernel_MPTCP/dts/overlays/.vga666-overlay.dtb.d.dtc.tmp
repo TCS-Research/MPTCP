@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/vga666-overlay.dtb: arch/arm/boot/dts/overlays/.vga666-overlay.dtb.dts.tmp

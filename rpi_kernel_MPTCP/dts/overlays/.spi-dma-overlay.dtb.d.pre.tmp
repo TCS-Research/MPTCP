@@ -1,0 +1,1 @@
+spi-dma-overlay.o: arch/arm/boot/dts/overlays/spi-dma-overlay.dts

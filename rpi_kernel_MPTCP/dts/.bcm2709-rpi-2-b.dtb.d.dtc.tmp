@@ -1,0 +1,1 @@
+arch/arm/boot/dts/bcm2709-rpi-2-b.dtb: arch/arm/boot/dts/.bcm2709-rpi-2-b.dtb.dts.tmp arch/arm/boot/dts/bcm2709.dtsi arch/arm/boot/dts/bcm2708_common.dtsi arch/arm/boot/dts/skeleton.dtsi

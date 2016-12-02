@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/raspidac3-overlay.dtb: arch/arm/boot/dts/overlays/.raspidac3-overlay.dtb.dts.tmp

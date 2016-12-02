@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/lirc-rpi-overlay.dtb: arch/arm/boot/dts/overlays/.lirc-rpi-overlay.dtb.dts.tmp

@@ -1,0 +1,2 @@
+boomberry-dac-overlay.o: \
+ arch/arm/boot/dts/overlays/boomberry-dac-overlay.dts

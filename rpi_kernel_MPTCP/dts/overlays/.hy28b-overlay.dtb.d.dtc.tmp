@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/hy28b-overlay.dtb: arch/arm/boot/dts/overlays/.hy28b-overlay.dtb.dts.tmp

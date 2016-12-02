@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/pi3-disable-bt-overlay.dtb: arch/arm/boot/dts/overlays/.pi3-disable-bt-overlay.dtb.dts.tmp

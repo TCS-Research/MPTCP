@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/spi-bcm2835-overlay.dtb: arch/arm/boot/dts/overlays/.spi-bcm2835-overlay.dtb.dts.tmp

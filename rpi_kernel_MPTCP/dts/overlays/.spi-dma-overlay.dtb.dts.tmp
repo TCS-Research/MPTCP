@@ -1,0 +1,24 @@
+# 1 "arch/arm/boot/dts/overlays/spi-dma-overlay.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "arch/arm/boot/dts/overlays/spi-dma-overlay.dts"
+
+
+
+
+/dts-v1/;
+/plugin/;
+
+/ {
+ compatible = "brcm,bcm2835", "brcm,bcm2836", "brcm,bcm2708", "brcm,bcm2709";
+
+ fragment@0 {
+  target = <&spi0>;
+  __overlay__ {
+   #address-cells = <1>;
+   #size-cells = <0>;
+   dmas = <&dma 6>, <&dma 7>;
+   dma-names = "tx", "rx";
+  };
+ };
+ };

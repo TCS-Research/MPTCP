@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/rpi-sense-overlay.dtb: arch/arm/boot/dts/overlays/.rpi-sense-overlay.dtb.dts.tmp

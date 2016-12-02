@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/spi-dma-overlay.dtb: arch/arm/boot/dts/overlays/.spi-dma-overlay.dtb.dts.tmp

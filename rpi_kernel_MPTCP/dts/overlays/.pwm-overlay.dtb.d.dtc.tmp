@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/pwm-overlay.dtb: arch/arm/boot/dts/overlays/.pwm-overlay.dtb.dts.tmp

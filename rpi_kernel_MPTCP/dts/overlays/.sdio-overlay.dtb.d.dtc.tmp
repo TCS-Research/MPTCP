@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/sdio-overlay.dtb: arch/arm/boot/dts/overlays/.sdio-overlay.dtb.dts.tmp arch/arm/boot/dts/overlays/sdhost-overlay.dts

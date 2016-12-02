@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/at86rf233-overlay.dtb: arch/arm/boot/dts/overlays/.at86rf233-overlay.dtb.dts.tmp
