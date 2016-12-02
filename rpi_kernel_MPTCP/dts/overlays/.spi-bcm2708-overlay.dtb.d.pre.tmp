@@ -1,1 +1,0 @@
-spi-bcm2708-overlay.o: arch/arm/boot/dts/overlays/spi-bcm2708-overlay.dts

@@ -1,1 +1,0 @@
-spi-bcm2835-overlay.o: arch/arm/boot/dts/overlays/spi-bcm2835-overlay.dts

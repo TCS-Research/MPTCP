@@ -1,2 +1,0 @@
-boomberry-digi-overlay.o: \
- arch/arm/boot/dts/overlays/boomberry-digi-overlay.dts
