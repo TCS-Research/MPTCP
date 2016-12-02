@@ -13,6 +13,7 @@ MPTCP version: 4.1.20
 	cd rpi_kernel_MPTCP
 
 3) From this folder run the following commands to install the kernel:
+
 	a) sudo tar -xzf lib_modules.tar.gz -C /lib/modules/
    		Contents of the tar are extracted into /lib/modules/4.1.21-v7
 
